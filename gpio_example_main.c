@@ -253,7 +253,7 @@ uint32_t teclaR;
 		{
 		printf("Ganaste");
 		}
-		else{printf("Perdiste ue");}
+		else{printf("Perdiste");}
 	}
 }
 
