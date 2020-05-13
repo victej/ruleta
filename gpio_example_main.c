@@ -1,4 +1,4 @@
-//Integrantes del equipo 
+//Integrantes del equipo ruleta 
 //Hernan Salgado Suarez
 //Victor Manuel Tejeda Meza
 //Javier Gonzales Ramirez
