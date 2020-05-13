@@ -1,3 +1,7 @@
+//Integrantes del equipo 
+//Hernan Salgado Suarez
+//Victor Manuel Tejeda Meza
+//Javier Gonzales Ramirez
 
 #include <stdio.h>
 #include <string.h>
